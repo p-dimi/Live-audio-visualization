@@ -1,5 +1,5 @@
 # Live-audio-visualization
-Quick and dirty live audio visualization I made for a short notice jam session.
+Quick and dirty live audio visualization I made for a jam session.
 
 Set your device microphone device as Line-In if you're playing something from the computer, or if you have live music that is loud enough (and a good microphone that picks it up well), just leave it as is.
 
@@ -14,3 +14,7 @@ This is based on beat detection.
 The quick and dirty has Carlton dancing to the beat, as well as some other effects of pictures popping in and out, and a background display of the audio signal iteslf in RGB.
 
 Feel free to do whatever you want to it / with it.
+
+Dependencies in requirements.txt.
+
+Note: Code is not documented, built in an hour for a same day jam session.
