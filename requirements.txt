@@ -1,0 +1,6 @@
+PyAudio==0.2.11
+keyboard==0.13.3
+numpy==1.19.1
+librosa==0.7.1
+opencv_contrib_python==4.1.2.30
+scikit_learn==0.24.0
