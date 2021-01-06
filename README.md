@@ -1,6 +1,8 @@
 # Live-audio-visualization
 Quick and dirty live audio visualization I made for a jam session.
 
+![AudioViz]https://github.com/p-dimi/Live-audio-visualization/blob/main/demo.gif
+
 Set your device microphone device as Line-In if you're playing something from the computer, or if you have live music that is loud enough (and a good microphone that picks it up well), just leave it as is.
 
 How to use:
